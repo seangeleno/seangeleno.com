@@ -1,4 +1,4 @@
-# seangeleno.com - Sean Marcel Esteva's Personal Website
+  # Sean Marcel Esteva
 
 My own little slice of the internet.
 
